@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @DrxMaxi
-- 👀 I'm Studying Software Engineering
-- 🌱 I usually develop games.
--  Discord: DrxMaxi#1337
+only peace
+discord @ drxmaxi
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/402771109294112769?theme=dark&bg=8470ff&idleMessage=Selam!)](https://discord.com/users/402771109294112769)
