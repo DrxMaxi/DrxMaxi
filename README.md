@@ -1,7 +1,7 @@
 only peace
 discord @ drxmaxi
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drxmaxi&theme=tokyonight&show_icons=true&locale=tr" alt="torpack" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drxmaxi&theme=midnight-purple&show_icons=true&locale=tr" alt="torpack" /></p>
 
 <p align="center"> <img src=https://lanyard.cnrad.dev/api/402771109294112769?theme=dark&bg=191919&idleMessage=Selam!) alt="drxmaxi" /> 
 
