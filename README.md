@@ -1,5 +1,4 @@
-only peace
-discord @ drxmaxi
+<h1 align="center"> only peace discord @ drxmaxi </h1>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drxmaxi&theme=midnight-purple&show_icons=true&locale=en" alt="torpack" /></p>
 
